@@ -313,6 +313,5 @@ The submissions module handles multiple submissions within a form, like for a li
 | Name | Parameters | Description |
 |---|---|---|
 | ```selectSubmissions``` | name: string, state: object | Select the list of submissions from the state. |
-
-## License
+`:wq## License
 Released under the [MIT License](http://www.opensource.org/licenses/MIT).
